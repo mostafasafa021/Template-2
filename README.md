@@ -1,2 +1,2 @@
 # Template-2
-Html and Css projec
+Html and Css project
